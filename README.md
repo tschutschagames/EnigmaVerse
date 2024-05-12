@@ -14,7 +14,7 @@ EnigmaVerse is an easy-to-use program that utilizes AES encryption to securely e
 To use EnigmaVerse, you have two of options:
 
 ### Using the Executable (Windows):
-Download the executable file from the EnigmaVerse\bin\Debug directory.
+Download the executable file from the EnigmaVerse/EnigmaVerse/bin/Debug directory.
 Simply run the executable to use EnigmaVerse without any additional setup.
 
 ### Using Visual Studio (Windows):
