@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaVerse", "EnigmaVerse\EnigmaVerse.csproj", "{F40FE991-4402-49CF-901C-5C6CD00E6BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40FE991-4402-49CF-901C-5C6CD00E6BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40FE991-4402-49CF-901C-5C6CD00E6BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40FE991-4402-49CF-901C-5C6CD00E6BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40FE991-4402-49CF-901C-5C6CD00E6BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC000BF6-A0F0-4101-894E-2A180E53ADB2}
+	EndGlobalSection
+EndGlobal
