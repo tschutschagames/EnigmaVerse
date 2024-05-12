@@ -4,11 +4,11 @@ EnigmaVerse is an easy-to-use program that utilizes AES encryption to securely e
 
 ## Features
 
-⌨️ **AES Encryption:** EnigmaVerse employs the Advanced Encryption Standard (AES) encryption, a robust and trusted method for securing data.
+⌨️ **AES Encryption:** EnigmaVerse employs the Advanced Encryption Standard (AES) encryption.
 
-🔑 **Secure Key Exchange:** Texts can only be decrypted with the correct key, ensuring the confidentiality of the encrypted information.
+🔑 **Secure Key Exchange:** Texts can only be decrypted with the correct key.
 
-🔐 **Key Management:** Users can easily save and load their keys to use them for different texts or purposes. C:\Users\NAME\Documents\EnigmaVerse
+🔐 **Key Management:** Users can easily save and load their keys. C:\Users\NAME\Documents\EnigmaVerse
 
 https://github.com/tschutschagames/EnigmaVerse/blob/main/enigmaversescreenshot.png
 ![Screenshot EnigmaVerse](https://github.com/tschutschagames/EnigmaVerse/blob/main/enigmaversescreenshot.png)
