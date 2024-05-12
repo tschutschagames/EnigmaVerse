@@ -16,7 +16,7 @@ https://github.com/tschutschagames/EnigmaVerse/blob/main/enigmaversescreenshot.p
 To use EnigmaVerse, you have two of options:
 
 ### Using the Executable (Windows):
-Download the executable file from the EnigmaVerse/EnigmaVerse/bin/Debug directory.
+Download the latest executable file under Releases.
 Simply run the executable to use EnigmaVerse without any additional setup.
 
 ### Using Visual Studio (Windows):
