@@ -10,6 +10,8 @@ EnigmaVerse is an easy-to-use program that utilizes AES encryption to securely e
 
 🔐 **Key Management:** Users can easily save and load their keys to use them for different texts or purposes. C:\Users\NAME\Documents\EnigmaVerse
 
+https://github.com/tschutschagames/EnigmaVerse/blob/main/enigmaversescreenshot.png
+![Screenshot EnigmaVerse](https://github.com/tschutschagames/EnigmaVerse/blob/main/enigmaversescreenshot.png)
 ## Installation
 To use EnigmaVerse, you have two of options:
 
