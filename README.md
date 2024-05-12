@@ -17,6 +17,7 @@ To use EnigmaVerse, you have two of options:
 
 ### Using the Executable (Windows):
 Download the latest executable file under Releases.
+
 Simply run the executable to use EnigmaVerse without any additional setup.
 
 ### Using Visual Studio (Windows):
