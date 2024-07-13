@@ -34,4 +34,4 @@ If you encounter an error while trying to debug the project in Visual Studio, su
 After unblocking the file, try debugging the project again in Visual Studio.
 
 ## Contribution
-Contributions are welcome! If you find a bug or would like to propose an enhancement, please reach out on my [Discord](discord.com/invite/bpBw3dzrzD).  
+Contributions are welcome! If you find a bug or would like to propose an enhancement, please reach out on my [Discord](https://discord.com/invite/bpBw3dzrzD).  
